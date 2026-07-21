@@ -112,6 +112,3 @@ GitHub: https://github.com/Deepanshu-tech7
 
 LinkedIn: https://www.linkedin.com/in/deepanshugarkoti
 
-## 📷 Dashboard Preview
-
-![Dashboard](dashboard.png)
