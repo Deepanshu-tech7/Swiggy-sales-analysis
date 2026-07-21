@@ -113,4 +113,5 @@ GitHub: https://github.com/Deepanshu-tech7
 LinkedIn: https://www.linkedin.com/in/deepanshugarkoti
 
 ## 📷 Dashboard Preview
-<img src="https://raw.githubusercontent.com/Deepanshu-tech7/Swiggy-sales-analysis/main/dashboard.png" width="900">
+
+![Dashboard](dashboard.png)
