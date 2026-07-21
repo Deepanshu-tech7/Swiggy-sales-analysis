@@ -112,4 +112,6 @@ GitHub: https://github.com/Deepanshu-tech7
 
 LinkedIn: https://www.linkedin.com/in/deepanshugarkoti
 
-![Swiggy Dashboard](Dashboard.png)
+## 📷 Dashboard Preview
+
+![Dashboard](dashboard.png)
